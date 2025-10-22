@@ -1,0 +1,1 @@
+// JavaScript is embedded in HTML for better compatibility
